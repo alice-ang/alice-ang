@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alice Anglesjö</h1>
 <h3 align="center">A junior frontend developer located in Skövde, Sweden</h3>
-<div style="display: inline_block">
 
 - 🔭 I’m currently working on [StudentHem](https://github.com/alice-ang/next-auth)
 
@@ -14,8 +13,6 @@
   
 - 📍 Working from home with my [🐶](https://www.instagram.com/martaparta2020/)
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/24763251/166515224-ac0e9b31-95a0-4138-9b68-67102042566e.png">
-</div>
 
 ## 🚀 Languages and Tools:
 
