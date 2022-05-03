@@ -21,5 +21,5 @@
 <h2 align="left">📈 Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alice-ang&theme=dark&show_icons=true&locale=en&layout=compact" alt="alice-ang" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alice-ang&theme=dark&show_icons=true&locale=en" alt="alice-ang" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alice-ang&theme=dark&show_icons=true&locale=en" alt="alice-ang" /></p>
 
