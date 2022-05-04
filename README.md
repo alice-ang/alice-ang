@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [StudentHem](https://github.com/alice-ang/next-auth)
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://alice-ang.netlify.app/) (WIP)
+- 👨‍💻 All of my projects are available on my [portfolio](https://alice-ang.netlify.app/)
 
 - 📫 How to reach me **alice.anglesjo@hotmail.com**
 
