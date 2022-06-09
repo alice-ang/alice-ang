@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alice</h1>
+<h1 align="center">Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Alice</h1>
 <h3 align="center">A junior frontend developer located in Skövde, Sweden</h3>
 
 - 🔭 I’m currently working on [StudentHem](https://github.com/alice-ang/next-auth)
